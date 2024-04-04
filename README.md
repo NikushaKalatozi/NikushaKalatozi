@@ -4,6 +4,8 @@
 ![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+![Visitor Count](https://profile-counter.glitch.me/{NikushaKalatozi}/count.svg)
+
 
 
 🔭 I’m currently DevSecOps at Fundbox
