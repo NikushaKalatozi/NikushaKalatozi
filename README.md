@@ -19,9 +19,9 @@
   </a>
 </p>
 
-🔭 I’m currently DevSecOps at Fundbox.
+🔭 I’m currently **DevSecOps** at **Fundbox**.
 
-🌱 I’m currently actively learning Exploit Development.
+🌱 I’m currently actively learning **Exploit Development** and **Application Security**
 
 💬 Ask me about **Application Security, Pentesting, Threat Hunting, Python, OSINT, and Blockchain.**
 
