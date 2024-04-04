@@ -1,8 +1,10 @@
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px">
-  <h1>Hi 👋, I'm <strong>Nikusha Kalatozi</strong></h1>
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px" style="float: left;">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px" style="float: right;">
+  <br><br>
+  <h1 style="clear: both;">Hi 👋, I'm Nikusha Kalatozi</h1>
 </p>
+
 
 <!-- Clearfix to ensure the container expands to hold floated elements -->
 <div style="clear: both;"></div>
