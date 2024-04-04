@@ -9,20 +9,20 @@
 
 🌱 I’m currently learning threat cloud administration
 
-💬 Ask me about Application Security, Pentesting, Threat Hunting, Python, and BlockChain
+💬 Ask me about **Application Security, Pentesting, Threat Hunting, Python, and Blockchain**
 
-Connect with me:
-<!--
-**NikushaKalatozi/NikushaKalatozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
 
-Here are some ideas to get you started:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/) [![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/17436415/grudev325) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-read
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋, I'm NikushaKalatozi
+
+![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white) ![Gmail Badge](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white) ![Visits Badge](https://badges.pufler.dev/visits/Werewolves0493/Werewolves0493?style=for-the-badge)
+
+- 🔭 I’m currently DevSecOps at Fundbox
+- 🌱 I’m currently learning threat cloud administration
+- 💬 Ask me about **Blockchain**
+
+## Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/) [![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/17436415/grudev325) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-read
