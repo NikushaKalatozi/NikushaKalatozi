@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm NikushaKalatozi
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 🔭 I’m currently DevSecOps at Fundbox
 
