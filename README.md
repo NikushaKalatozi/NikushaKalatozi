@@ -14,15 +14,3 @@
 ## Connect with me:
 
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/) [![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/17436415/grudev325) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-read
-
-# Hi 👋, I'm NikushaKalatozi
-
-![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white) ![Gmail Badge](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white) ![Visits Badge](https://badges.pufler.dev/visits/Werewolves0493/Werewolves0493?style=for-the-badge)
-
-- 🔭 I’m currently DevSecOps at Fundbox
-- 🌱 I’m currently learning threat cloud administration
-- 💬 Ask me about **Blockchain**
-
-## Connect with me:
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/) [![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/17436415/grudev325) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-read
