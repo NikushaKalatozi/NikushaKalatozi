@@ -19,7 +19,7 @@
 
 ---
 
-### 🔭 I’m currently **DevSecOps** at **Fundbox**.
+### 🔭 I’m currently **DevSecOps** .
 
 ### 🌱 I’m currently actively learning **Cloud Security,** **Exploit Development** and **Application Security**
 
