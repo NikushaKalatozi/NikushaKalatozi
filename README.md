@@ -45,6 +45,9 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
+  </a>
+<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" alt="RedHat" width="40" height="40"/> 
 </a>
 </p>
 
