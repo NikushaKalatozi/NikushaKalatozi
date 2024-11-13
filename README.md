@@ -109,6 +109,6 @@
   </a> 
 
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
-  </a>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry PI" width="40" height="40"/>  
+  </a>
 </p>
