@@ -2,7 +2,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px" style="float: left;">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="150px" style="float: right;">
   <br><br>
-  <h1 align="center">Hi 👋, I'm Nikusha Kalatozi</h1>
+  <h1 align="center">Hi 👋, I'm Nika Kalatozi</h1>
 </p>
 
 <div style="clear: both;"></div>
@@ -23,7 +23,7 @@
 
 ### 🌱 I’m currently actively learning **Cloud Security,** **Kubernetes** and **Application Security**
 
-### 💬 Ask me about **Application Security, Pentesting, Threat Hunting, Python, OSINT, and Blockchain.**
+### 💬 Ask me about **Application Security, Pentesting, Threat Hunting, Python, OSINT and SOC.**
 
 ---
 
@@ -47,7 +47,7 @@
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
   </a>
 <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" alt="RedHat" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/> 
 </a>
 </p>
 
@@ -56,6 +56,9 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> 
+
 </p>
 
 <h3 align="left">Development:</h3>
@@ -112,6 +115,6 @@
   </a> 
 
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/>  
   </a>
 </p>
