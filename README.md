@@ -21,9 +21,9 @@
 
 ### 🔭 I’m **DevSecOps** with **Penetration Tester** and **Cyber Security Architect** experience.
 
-### 🌱 I’m currently actively learning **Cloud Security,** **Kubernetes** and **Application Security**
+### 🌱 I’m currently actively learning **Cloud Security,** **Kubernetes** and **Application Security**.
 
-### 💬 Ask me about **Application Security, Pentesting, Threat Hunting, Python, OSINT and SOC.**
+### 💬 Ask me about **Cloud, Pentesting, Threat Hunting, Python, OSINT and SOC**.
 
 ---
 
